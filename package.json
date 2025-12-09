@@ -1,6 +1,6 @@
 {
   "name": "cloakbrowser-mcp",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "\u26a1 CloakBrowser MCP server for AI agents: Playwright-powered browsing, clean tool forwarding, Docker support, and multi-session HTTP transport.",
   "main": "src/index.ts",
   "scripts": {
